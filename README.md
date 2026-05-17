@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-qs.
+
 # think-qs
 
 [![Build Status](https://travis-ci.org/thinkjs/think-qs.svg?branch=master)](https://travis-ci.org/thinkjs/think-qs)
